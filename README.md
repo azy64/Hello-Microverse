@@ -14,7 +14,7 @@
 
 👤 **AZARIA SAIDI ALLY**
 
-- GitHub: [@githubhandle](https://github.com/azy64)
+- GitHub: [@azy64](https://github.com/azy64)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/azaria-saidi-524780112/)
 
 ## 🤝 Contributing
